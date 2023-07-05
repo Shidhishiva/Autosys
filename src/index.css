@@ -1,0 +1,272 @@
+.container1 {
+  background-color: rgb(31, 29, 29);
+  background-image: radial-gradient(
+      93% 87% at 87% 89%,
+      rgba(0, 0, 0, 0.23) 0%,
+      transparent 86.18%
+    ),
+    radial-gradient(
+      66% 87% at 26% 20%,
+      rgba(255, 255, 255, 0.41) 0%,
+      rgba(255, 255, 255, 0) 69.79%,
+      rgba(255, 255, 255, 0) 100%
+    );
+  color: aliceblue;
+  padding: 10px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.info {
+  padding: 25px;
+}
+
+.head1 {
+  display: flex;
+  justify-content: space-between;
+  white-space: nowrap;
+  position: absolute;
+}
+
+.head2 {
+  display: flex;
+  flex-direction: column;
+  white-space: nowrap;
+}
+
+.logo2 {
+  display: flex;
+  position: absolute;
+  margin-left: 450px;
+}
+
+.head4 {
+  display: flex;
+  position: absolute;
+  margin-left: 500px;
+}
+
+.head5 {
+  color: greenyellow;
+  display: flex;
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 20px;
+}
+
+.btn-group {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left: 650px;
+}
+
+.btn {
+  color: #fff;
+  padding: 12px 12px;
+  border-radius: 3px;
+  background-color: #0b0b0e;
+  background-image: radial-gradient(
+      93% 87% at 87% 89%,
+      rgba(0, 0, 0, 0.23) 0%,
+      transparent 86.18%
+    ),
+    radial-gradient(
+      66% 87% at 26% 20%,
+      rgba(255, 255, 255, 0.41) 0%,
+      rgba(255, 255, 255, 0) 69.79%,
+      rgba(255, 255, 255, 0) 100%
+    );
+  box-shadow: 2px 19px 31px rgba(0, 0, 0, 0.2);
+  font-weight: bold;
+  font-size: 16px;
+  font-weight: 800;
+  border: 0;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  cursor: pointer;
+}
+
+.data {
+  background-color: rgb(31, 29, 29);
+
+  padding: 10px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 200;
+}
+
+.data1 {
+  color: greenyellow;
+
+  word-spacing: 2px;
+  white-space: nowrap;
+}
+
+.data2 {
+  color: greenyellow;
+
+  word-spacing: 2px;
+  white-space: nowrap;
+}
+
+.data3 {
+  color: greenyellow;
+  word-spacing: 2px;
+  white-space: nowrap;
+}
+
+.data4 {
+  color: red;
+  word-spacing: 2px;
+  white-space: nowrap;
+}
+
+.data5 {
+  color: red;
+  margin-right: 200px;
+  word-spacing: 2px;
+  white-space: nowrap;
+}
+
+.time {
+  background-color: rgb(31, 29, 29);
+  color: aliceblue;
+  padding: 10px;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+  font-weight: 200;
+}
+
+.time1 {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  letter-spacing: 10px;
+}
+
+.bar {
+  background-color: rgb(31, 29, 29);
+  height: 100%;
+  width: 100%;
+  padding-bottom: 30px;
+  padding-right: 20px;
+}
+
+.barslide {
+  height: 32px;
+  padding: 15px;
+  width: 1350px;
+  border-radius: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+}
+
+.val {
+  width: 10%;
+  height: 105%;
+  padding-top: 15px;
+  background-color: green;
+  border-radius: 12rem 0 0 12rem;
+}
+
+.val1 {
+  width: 10%;
+  height: 105%;
+  padding-top: 15px;
+  background-color: red;
+}
+
+.val2 {
+  width: 10%;
+  height: 105%;
+  padding-top: 15px;
+  background-color: green;
+}
+
+.val3 {
+  width: 10%;
+  height: 105%;
+  padding-top: 15px;
+  background-color: rgb(181, 181, 36);
+  font-weight: 500;
+}
+
+.val4 {
+  width: 10%;
+  height: 105%;
+  padding-top: 15px;
+  background-color: rgb(181, 181, 36);
+}
+
+.val5 {
+  width: 10%;
+  height: 105%;
+  padding-top: 15px;
+  background-color: green;
+}
+
+.val6 {
+  width: 10%;
+  height: 105%;
+  padding-top: 15px;
+  background-color: green;
+}
+
+.val7 {
+  width: 10%;
+  height: 105%;
+  padding-top: 15px;
+  background-color: green;
+}
+
+.val8 {
+  width: 10%;
+  height: 105%;
+  padding-top: 15px;
+  background-color: rgb(181, 181, 36);
+}
+
+.val9 {
+  width: 10%;
+  height: 105%;
+  padding-top: 15px;
+  background-color: rgb(181, 181, 36);
+}
+
+.val10 {
+  width: 10%;
+  height: 105%;
+  padding-top: 15px;
+  background-color: red;
+}
+
+.val11 {
+  width: 10%;
+  height: 105%;
+  padding-top: 15px;
+  background-color: red;
+
+  border-radius: 0 12rem 12rem 0;
+}
+
+
